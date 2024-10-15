@@ -18,7 +18,10 @@ body {
   background-color: #e4e7ec;
 }
 
-
+top{
+  display:flex;
+ justify-content: center;
+}
 
 h1 {
   font-family: "SF Distant Galaxy";
@@ -29,7 +32,10 @@ h1 {
 /* computer */
 @media screen and (min-width: 600px) {
 
-
+  .top{
+    display:flex;
+   justify-content: center;
+  }
 
 }
 
